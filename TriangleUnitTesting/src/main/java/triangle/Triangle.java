@@ -2,6 +2,7 @@ package triangle;
 
 public class Triangle {
 
+
     final int TR_EQUILATERAL = 1; // равносторонний
     final int TR_ISOSCELES = 2;   // равнобедренный
     final int TR_ORDYNARY = 4;    // обычный

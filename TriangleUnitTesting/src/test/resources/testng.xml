@@ -1,0 +1,10 @@
+<suite name="Suite1" verbose="1" >
+    <test name="AllClassesTest" >
+        <classes>
+            <class name="triangle.CheckTriangleTest" />
+            <class name="triangle.GetMessageTest" />
+            <class name="triangle.DetectTriangleTest" />
+            <class name="triangle.GetSquareTest" />
+        </classes>
+    </test>
+</suite>
